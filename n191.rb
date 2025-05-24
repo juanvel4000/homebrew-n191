@@ -1,4 +1,4 @@
-class n191 < Formula
+class N191 < Formula
   desc "A fork of Microsoft Edit"
   homepage "https://github.com/juanvel4000/n191"
   url "https://github.com/juanvel4000/n191/archive/refs/tags/v1.0.1.tar.gz"
