@@ -1,8 +1,8 @@
 class N191 < Formula
   desc "A fork of Microsoft Edit"
   homepage "https://github.com/juanvel4000/n191"
-  url "https://github.com/juanvel4000/n191/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "aea2d123cc0decdf5ae5b53358ba91b793c7baafdda6201dc8f2ff2aca389a0e"  
+  url "https://github.com/juanvel4000/n191/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "cec58134fcff98350284b21933e75ca527e1e34694cbcaa94dc628fb8c10859d"  
 
   depends_on "rustup"
 
