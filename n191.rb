@@ -4,8 +4,7 @@ class N191 < Formula
   url "https://github.com/juanvel4000/n191/archive/refs/tags/v1.0.0.tar.gz"
   sha256 "aea2d123cc0decdf5ae5b53358ba91b793c7baafdda6201dc8f2ff2aca389a0e"  
 
-  depends_on "rust"
-  depends_on "rust-src"
+  depends_on "rustup"
 
   def install
     ENV["RUSTC_BOOTSTRAP"] = "1"
